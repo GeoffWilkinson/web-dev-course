@@ -1,8 +1,20 @@
+body {
+/*	background: url(https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQDY2wZ5J92YFsXOPnR5PK1-TisdmcMQQlAhmaOuoPWexzFGiiY);
+	background-repeat: false;
+	background-size: cover;*/
+	background-color: cyan;
+}
+
 h1 {
 	color: red;
+/*	border-color: purple;
+	border-width: 5px;
+	border-style: solid;*/
+	border: 2px solid rgb(255,100,80);
 }
 
 h4 {
+	background: rgb(255,100,80);
 	color: purple;
 }
 
