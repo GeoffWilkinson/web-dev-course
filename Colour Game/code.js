@@ -25,7 +25,7 @@ resetButton.addEventListener("click", function() {
 	}
 	// reset the menu
 	resetButton.textContent = "New Colours";
-	h1.style.backgroundColor = "#232323";
+	h1.style.backgroundColor = "steelblue";
 	messageDisplay.textContent = "";
 });
 
@@ -44,7 +44,7 @@ easyButton.addEventListener("click", function() {
 		}
 	}
 	resetButton.textContent = "New Colours";
-	h1.style.backgroundColor = "#232323";
+	h1.style.backgroundColor = "steelblue";
 	messageDisplay.textContent = "";
 });
 
@@ -60,7 +60,7 @@ hardButton.addEventListener("click", function() {
 		squares[i].style.display = "block";
 	}
 	resetButton.textContent = "New Colours";
-	h1.style.backgroundColor = "#232323";
+	h1.style.backgroundColor = "steelblue";
 	messageDisplay.textContent = "";
 });
 
